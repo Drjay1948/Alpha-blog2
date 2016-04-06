@@ -1,1 +1,1 @@
-This is the repository for the first alpha-blog app of the Ruby Course.
+This is the second repository for the first alpha-blog app of the Ruby Course. I rebuilt the app for the sake of practice.
